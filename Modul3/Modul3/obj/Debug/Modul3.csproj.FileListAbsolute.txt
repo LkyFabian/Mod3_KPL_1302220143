@@ -1,0 +1,10 @@
+D:\praktikum\Modul3\Modul3\bin\Debug\Modul3.exe.config
+D:\praktikum\Modul3\Modul3\bin\Debug\Modul3.exe
+D:\praktikum\Modul3\Modul3\bin\Debug\Modul3.pdb
+D:\praktikum\Modul3\Modul3\obj\Debug\Modul3.csproj.AssemblyReference.cache
+D:\praktikum\Modul3\Modul3\obj\Debug\Modul3.Form1.resources
+D:\praktikum\Modul3\Modul3\obj\Debug\Modul3.Properties.Resources.resources
+D:\praktikum\Modul3\Modul3\obj\Debug\Modul3.csproj.GenerateResource.cache
+D:\praktikum\Modul3\Modul3\obj\Debug\Modul3.csproj.CoreCompileInputs.cache
+D:\praktikum\Modul3\Modul3\obj\Debug\Modul3.exe
+D:\praktikum\Modul3\Modul3\obj\Debug\Modul3.pdb
